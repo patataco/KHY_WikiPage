@@ -34,7 +34,12 @@ bun dev
 #### 추가 기능
 - 위키페이지 목록 삭제: 메인 페이지의 위키페이지의 제목들 목록에서 X 버튼을 눌러 글을 삭제할 수 있습니다.
 
+
 ## 데모 영상
+
+Vercel을 통해 배포 [DEMO](https://wiki-rev.vercel.app/)
+<br/>
+<br/>
 1. WikiPage 메인페이지(게시글 제목 리스트) 
 - article 제목 리스트 조회<br/>
 ![readList-ezgif com-resize](https://github.com/patataco/wiki-rev/assets/127014105/8b50deb0-5b30-404b-8755-8d5e183580b7)<br/>
